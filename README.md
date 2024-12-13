@@ -1,3 +1,1 @@
-#Kelompok 10
-
-Nama Game : 
+# Kelompok 10
