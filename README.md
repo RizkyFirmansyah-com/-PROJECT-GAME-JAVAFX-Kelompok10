@@ -1,3 +1,3 @@
-https://github.com/RizkyFirmansyah-com/-PROJECT-GAME-JAVAFX-Kelompok10
+#Kelompok 10
 
 Nama Game : 
