@@ -33,6 +33,16 @@ Konsep dasar dari game ini adalah menciptakan permainan di mana pemain mengendal
 ## 📌📌 Note :
 Jika kamu ingin menjalankan game ini,perlu di perhatikan saat mengekstrak,pastikan semua file ada 
 
+## 📌📌 Pembagian Tugas :
+1. Rizky Firmansyah (2357051016) :
+
+2. Muhammad Hafiz Adam (2317051015) :
+
+3. Kemas Muhammad Alfath Iskandar (2317051072) :
+
+4. S Agung Setiawan (2317051011) :
+
+
 
 ## Enjoy the game❤️❤️
 
