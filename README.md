@@ -15,7 +15,7 @@ S Agung Setiawan (2317051011)
 
 
 ## Nama Game : 
-Cacth The Fruits
+Catch The Fruits
 
 
 ## 🎮🕹️ Konsep Game :
