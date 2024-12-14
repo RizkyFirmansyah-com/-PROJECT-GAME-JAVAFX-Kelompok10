@@ -45,7 +45,8 @@ Jika kamu ingin menjalankan game ini,perlu di perhatikan saat mengekstrak,pastik
 
    -Membuat tampilan Github yang menarik
 
-   -Membuat beberapa code di FXMLDocumentController.java
+   -Membuat beberapa code di FXMLDocumentController.java (Kode yang di tambahkan mengimplementasikan logika dasar dalam game, seperti restart, pause/resume, kontrol karakter, dan keluar dari game. 
+   Fungsinya dirancang untuk membuat game lebih interaktif dan mudah dimainkan)
 
 ### 2. Muhammad Hafiz Adam (2317051015) :
    
