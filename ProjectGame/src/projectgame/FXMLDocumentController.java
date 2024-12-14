@@ -119,9 +119,6 @@ public class FXMLDocumentController {
         gameLoop.start();
     }
 }
-Bagian B
-java
-Salin kode
 // FXMLDocumentController.java (Bagian B)
 
     private void spawnFallingObjects() {
@@ -223,9 +220,6 @@ Salin kode
         fallingObjects.clear();
         gameArea.setFocusTraversable(false);
     }
-
-
-
 
 //Yang mengerjakan : Rizky Firmansyah
 @FXML
