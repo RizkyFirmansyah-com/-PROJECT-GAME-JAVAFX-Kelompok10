@@ -36,16 +36,18 @@ Jika kamu ingin menjalankan game ini,perlu di perhatikan saat mengekstrak,pastik
 ## 📌📌 Pembagian Tugas :
 1. Rizky Firmansyah (2357051016) :
    -Membuat file kodingan FallingObject yang mengatur skema jatuhnya object
-   -
+   -Membuat file kodingan MenuController dan membuat event handler dan logika game,khususnya untuk menangani tombol-tombol dan input pemain.
+   -Membuat tampilan Github yang menarik
 
 3. Muhammad Hafiz Adam (2317051015) :
+   -Membuat
 
-4. Kemas Muhammad Alfath Iskandar (2317051072) :
+5. Kemas Muhammad Alfath Iskandar (2317051072) :
    -Membuat main class dari aplikasi JavaFX,Ini memuat file antarmuka Menu.fxml untuk menampilkan GUI aplikasi dengan judul "Catch Falling Fruits".
-   -Membuat Kodingan GameObject
+   -Membuat Kodingan GameObject dan Character
    -Membuat laporan Bagian pembahasan pencakupan materi OOP Java
 
-5. S Agung Setiawan (2317051011) :
+6. S Agung Setiawan (2317051011) :
    -Membuat tampilan(GUI) menu awal permainan
    -Membuat tampilan(GUI) dalam permainan
    -Membuat Laporan di bagian Halaman judul dan Pendahuluan
