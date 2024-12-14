@@ -36,7 +36,7 @@ Jika kamu ingin menjalankan game ini,perlu di perhatikan saat mengekstrak,pastik
 
 ## 📌📌 Pembagian Tugas :
 
-1. Rizky Firmansyah (2357051016) :
+### 1. Rizky Firmansyah (2357051016) :
 
 
    -Membuat file kodingan FallingObject yang mengatur skema jatuhnya object
