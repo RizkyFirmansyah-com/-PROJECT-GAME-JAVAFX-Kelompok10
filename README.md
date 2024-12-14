@@ -37,4 +37,4 @@ Jika kamu ingin menjalankan game ini,perlu di perhatikan saat mengekstrak,pastik
 ## Enjoy the game❤️❤️
 
 
-<img src = "https://github.com/RizkyFirmansyah-com/-PROJECT-GAME-JAVAFX-Kelompok10/blob/main/1214.gif">
+<img src = "https://github.com/RizkyFirmansyah-com/-PROJECT-GAME-JAVAFX-Kelompok10/blob/main/GamePlay.gif">
