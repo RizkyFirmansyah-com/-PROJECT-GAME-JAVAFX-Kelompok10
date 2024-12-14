@@ -13,8 +13,10 @@ Kemas Muhammad Alfath Iskandar(2317051072)
 S Agung Setiawan (2317051011)
 
 
-Nama Game : 
+
+## Nama Game : 
 Cacth The Fruits
+
 
 🎮🕹️ Konsep Game :
 Konsep dasar dari game ini adalah menciptakan permainan di mana pemain mengendalikan sebuah Karakter yang harus mengumpulkan buah,untuk mendapatkan score. Game ini dirancang untuk menghibur berbagai kalangan, mulai dari anak-anak hingga orang dewasa, dengan menawarkan pengalaman bermain yang sederhana namun menarik. 
