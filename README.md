@@ -47,13 +47,13 @@ Jika kamu ingin menjalankan game ini,perlu di perhatikan saat mengekstrak,pastik
 
    -Membuat beberapa code di FXMLDocumentController.java
 
-2. Muhammad Hafiz Adam (2317051015) :
+### 2. Muhammad Hafiz Adam (2317051015) :
    
    -Membuat laporan di bagian Implementasi kode program
    
    -Membuat Kode program FXMLDocumentController yang mencakup logika permainan, seperti munculnya objek yang jatuh, pemeriksaan tabrakan, dan manajemen skor dan nyawa.
 
-4. Kemas Muhammad Alfath Iskandar (2317051072) :
+### 3. Kemas Muhammad Alfath Iskandar (2317051072) :
 
    -Membuat main class dari aplikasi JavaFX,Ini memuat file antarmuka Menu.fxml untuk menampilkan GUI aplikasi dengan judul "Catch Falling Fruits".
 
@@ -62,7 +62,7 @@ Jika kamu ingin menjalankan game ini,perlu di perhatikan saat mengekstrak,pastik
    -Membuat laporan Bagian pembahasan pencakupan materi OOP Java
 
 
-5. S Agung Setiawan (2317051011) :
+### 4. S Agung Setiawan (2317051011) :
 
    -Membuat tampilan(GUI) menu awal permainan, seperti background awal tombol-tombol
 
