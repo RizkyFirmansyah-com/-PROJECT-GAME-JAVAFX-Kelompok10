@@ -6,15 +6,14 @@ import javafx.scene.image.ImageView;
 public abstract class GameObject {
     protected ImageView imageView;
 
-    // Tambahkan atribut statis untuk menghitung jumlah objek
     private static int objectCount = 0;
 
     public GameObject(ImageView imageView) {
         this.imageView = imageView;
-        objectCount++; // Tingkatkan jumlah objek setiap kali konstruktor dipanggil
+        objectCount++; 
     }
 
-    // Tambahkan metode statis untuk mengakses jumlah objek
+
     public static int getObjectCount() {
         return objectCount;
     }
