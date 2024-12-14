@@ -48,6 +48,7 @@ Jika kamu ingin menjalankan game ini,perlu di perhatikan saat mengekstrak,pastik
    -Membuat beberapa code di FXMLDocumentController.java
 
 2. Muhammad Hafiz Adam (2317051015) :
+   
    -Membuat laporan di bagian Implementasi kode program
    
    -Membuat Kode program FXMLDocumentController yang mencakup logika permainan, seperti munculnya objek yang jatuh, pemeriksaan tabrakan, dan manajemen skor dan nyawa.
