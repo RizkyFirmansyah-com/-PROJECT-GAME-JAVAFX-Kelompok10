@@ -1,4 +1,4 @@
-<img src="https://github.com/RizkyFirmansyah-com/-PROJECT-GAME-JAVAFX-Kelompok10/blob/main/tim.png" >
+![image](https://github.com/user-attachments/assets/b6d3a88c-9f97-4773-b1fd-5f3aac6eccbd)<img src="https://github.com/RizkyFirmansyah-com/-PROJECT-GAME-JAVAFX-Kelompok10/blob/main/tim.png" >
 
 # Kelompok 10
 
@@ -35,21 +35,33 @@ Jika kamu ingin menjalankan game ini,perlu di perhatikan saat mengekstrak,pastik
 
 ## 📌📌 Pembagian Tugas :
 1. Rizky Firmansyah (2357051016) :
+
+
    -Membuat file kodingan FallingObject yang mengatur skema jatuhnya object
+   
    -Membuat file kodingan MenuController dan membuat event handler dan logika game,khususnya untuk menangani tombol-tombol dan input pemain.
+
    -Membuat tampilan Github yang menarik
+
+   -Membuat beberapa code di FXMLDocumentController.java
 
 3. Muhammad Hafiz Adam (2317051015) :
    -Membuat
 
 5. Kemas Muhammad Alfath Iskandar (2317051072) :
-   -Membuat main class dari aplikasi JavaFX,Ini memuat file antarmuka Menu.fxml untuk menampilkan GUI aplikasi dengan judul "Catch Falling Fruits".
+
+    -Membuat main class dari aplikasi JavaFX,Ini memuat file antarmuka Menu.fxml untuk menampilkan GUI aplikasi dengan judul "Catch Falling Fruits".
+
    -Membuat Kodingan GameObject dan Character
+
    -Membuat laporan Bagian pembahasan pencakupan materi OOP Java
 
-6. S Agung Setiawan (2317051011) :
+7. S Agung Setiawan (2317051011) :
+
    -Membuat tampilan(GUI) menu awal permainan
+
    -Membuat tampilan(GUI) dalam permainan
+
    -Membuat Laporan di bagian Halaman judul dan Pendahuluan
 
 
