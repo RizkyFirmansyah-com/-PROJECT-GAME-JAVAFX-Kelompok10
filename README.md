@@ -15,7 +15,7 @@ S Agung Setiawan (2317051011)
 
 
 ## Nama Game : 
-Catch The Fruits
+Catch the falling fruits
 
 
 ## 🎮🕹️ Konsep Game :
