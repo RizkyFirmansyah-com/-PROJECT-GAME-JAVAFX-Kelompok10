@@ -33,7 +33,9 @@ Konsep dasar dari game ini adalah menciptakan permainan di mana pemain mengendal
 ## 📌📌 Note :
 Jika kamu ingin menjalankan game ini,perlu di perhatikan saat mengekstrak,pastikan semua file ada 
 
+
 ## 📌📌 Pembagian Tugas :
+
 1. Rizky Firmansyah (2357051016) :
 
 
@@ -45,10 +47,11 @@ Jika kamu ingin menjalankan game ini,perlu di perhatikan saat mengekstrak,pastik
 
    -Membuat beberapa code di FXMLDocumentController.java
 
-3. Muhammad Hafiz Adam (2317051015) :
+2. Muhammad Hafiz Adam (2317051015) :
    -Membuat
+   
 
-5. Kemas Muhammad Alfath Iskandar (2317051072) :
+3. Kemas Muhammad Alfath Iskandar (2317051072) :
 
     -Membuat main class dari aplikasi JavaFX,Ini memuat file antarmuka Menu.fxml untuk menampilkan GUI aplikasi dengan judul "Catch Falling Fruits".
 
@@ -56,7 +59,8 @@ Jika kamu ingin menjalankan game ini,perlu di perhatikan saat mengekstrak,pastik
 
    -Membuat laporan Bagian pembahasan pencakupan materi OOP Java
 
-7. S Agung Setiawan (2317051011) :
+
+4. S Agung Setiawan (2317051011) :
 
    -Membuat tampilan(GUI) menu awal permainan
 
