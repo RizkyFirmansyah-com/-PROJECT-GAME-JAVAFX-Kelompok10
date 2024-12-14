@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b6d3a88c-9f97-4773-b1fd-5f3aac6eccbd)<img src="https://github.com/RizkyFirmansyah-com/-PROJECT-GAME-JAVAFX-Kelompok10/blob/main/tim.png" >
+<img src="https://github.com/RizkyFirmansyah-com/-PROJECT-GAME-JAVAFX-Kelompok10/blob/main/tim.png" >
 
 # Kelompok 10
 
