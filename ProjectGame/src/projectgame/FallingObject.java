@@ -1,4 +1,3 @@
-// FallingObject Class
 package projectgame;
 
 import javafx.animation.KeyFrame;
@@ -12,26 +11,26 @@ public class FallingObject extends GameObject {
     private Timeline timeline;
 
     public FallingObject(ImageView imageView, double speed, String type) {
-        super(imageView); // Memanggil konstruktor dari GameObject
-        this.speed = speed / 2; // Mengurangi kecepatan jatuh
+        super(imageView); 
+        this.speed = speed / 2; 
         this.type = type;
 
-        // Atur ukuran objek
-        imageView.setFitWidth(30); // Lebar objek
-        imageView.setFitHeight(30); // Tinggi objek
+   
+        imageView.setFitWidth(30); 
+        imageView.setFitHeight(30); 
 
-        // Inisialisasi timeline untuk animasi
+     
         timeline = new Timeline(new KeyFrame(Duration.millis(50), event -> updatePosition()));
-        timeline.setCycleCount(Timeline.INDEFINITE); // Animasi berjalan terus
-        timeline.play(); // Memulai animasi
+        timeline.setCycleCount(Timeline.INDEFINITE); 
+        timeline.play(); 
     }
 
     public void updatePosition() {
-        // Update posisi objek
+ 
         imageView.setLayoutY(imageView.getLayoutY() + speed);
 
-        // Opsional: Reset posisi ke atas jika mencapai bawah layar
-        if (imageView.getLayoutY() > 600) { // Asumsi tinggi layar 600
+   
+        if (imageView.getLayoutY() > 600) { 
             imageView.setLayoutY(0);
         }
     }
@@ -40,7 +39,6 @@ public class FallingObject extends GameObject {
         return type;
     }
 
-    // Metode untuk menghentikan animasi jika diperlukan
     public void stopFalling() {
         timeline.stop();
     }
