@@ -119,7 +119,7 @@ public class FXMLDocumentController {
         gameLoop.start();
     }
 }
-// FXMLDocumentController.java (Bagian B)
+
 
     private void spawnFallingObjects() {
         long now = System.nanoTime();
